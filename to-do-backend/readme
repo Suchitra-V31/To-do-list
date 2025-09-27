@@ -1,1 +1,32 @@
+# 📝 To-Do List Backend
+
+This repository contains the backend of the To-Do List web application, built using **Node.js**, **Express.js**, and **MongoDB**.
+
+---
+
+## 🔧 Tech Stack
+
+- **Backend:** Node.js, Express.js  
+- **Database:** MongoDB (Mongoose ORM)  
+- **Authentication:** JWT (JSON Web Tokens) with bcrypt  
+- **Environment Management:** dotenv  
+- **Version Control:** Git & GitHub  
+
+---
+
+## ⚙️ Features
+
+- JWT-based user authentication (secure registration, login, and logout)  
+- CRUD operations for notes with categories, search, filter, sort, and pagination  
+- Secure personal vault for private notes with secondary password and activity logging  
+- Notes management with categories like Daily Journal, Thought of the Day, Memories  
+- Ensures data persistence with MongoDB and schema validation  
+
+---
+
+## 🚀 Getting Started
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Suchitra-V31/todo-backend.git
 
