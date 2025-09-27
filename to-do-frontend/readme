@@ -1,1 +1,38 @@
 
+---
+
+### **2️⃣ To-Do List Frontend README (`frontend/README.md`)**
+
+```markdown
+# 📝 To-Do List Frontend
+
+This repository contains the frontend of the To-Do List web application, built using **React** and **Tailwind CSS**.
+
+---
+
+## 🔧 Tech Stack
+
+- **Frontend Framework:** React.js  
+- **Styling:** Tailwind CSS  
+- **State Management:** React Hooks  
+- **Authentication:** JWT  
+- **Version Control:** Git & GitHub  
+
+---
+
+## ⚙️ Features
+
+- Responsive UI for managing tasks and notes  
+- User login and registration integrated with backend JWT authentication  
+- CRUD operations for notes (create, read, update, delete)  
+- Categories and filtering options for notes  
+- Secure personal vault for private notes  
+
+---
+
+## 🚀 Getting Started
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Suchitra-V31/todo-frontend.git
+
