@@ -1,0 +1,23 @@
+To do list : 
+Features :	
+	-> Authentication
+TasK : 
+	-> Add task
+	-> Update task
+	-> delete task
+	-> List all tasks
+	-> Completed tasks
+	-> Pending tasks
+	-> If task reach deadline -> alert
+User :
+	-> create User
+	-> Update User
+	-> Delete User
+	-> List all user
+	
+Schema :
+	Task : {
+	id, Task name, Start date, End date, Percentage, State, Remarks}
+	User : {
+	Username, email, password}
+	
